@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/qasim-at-tci/helm-argocd.git
+    repoURL: https://github.com/e45666/helm-argocd.git
     targetRevision: HEAD
     path: app
     helm:
